@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Theory_of_Computing",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "concatenation_of_strings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-concatenation_of_strings-Debug-ed5366ab363d4bf7f1cb.json",
+					"name" : "concatenation_of_strings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "finite_automata::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-finite_automata-Debug-465b03fd17162d2c041b.json",
+					"name" : "finite_automata",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "length_of_string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-length_of_string-Debug-fb65c82f16a663604466.json",
+					"name" : "length_of_string",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reverse_string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reverse_string-Debug-35d8a88d4a0d53296bb7.json",
+					"name" : "reverse_string",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jakepalanca/CLionProjects/Theory of Computing/cmake-build-debug",
+		"source" : "/Users/jakepalanca/CLionProjects/Theory of Computing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

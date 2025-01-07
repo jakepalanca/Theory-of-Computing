@@ -1,0 +1,6 @@
+/Users/jakepalanca/CLionProjects/Theory of Computing/cmake-build-debug/CMakeFiles/concatenation_of_strings.dir
+/Users/jakepalanca/CLionProjects/Theory of Computing/cmake-build-debug/CMakeFiles/finite_automata.dir
+/Users/jakepalanca/CLionProjects/Theory of Computing/cmake-build-debug/CMakeFiles/length_of_string.dir
+/Users/jakepalanca/CLionProjects/Theory of Computing/cmake-build-debug/CMakeFiles/reverse_string.dir
+/Users/jakepalanca/CLionProjects/Theory of Computing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jakepalanca/CLionProjects/Theory of Computing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

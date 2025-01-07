@@ -1,0 +1,31 @@
+Alphabet:
+    * A finite and nonempty set of symbols
+    * Has to be nonempty and finite
+    * Often represented by capital Σ
+
+String:
+    * Mathematically, it is a sequence (ordered)
+    * Characters can be repeated (NOT A SET)
+    * A string, in theory, could be infinite
+    * When thinking of strings as input, we typically think of them as finite
+    * For example, “A” is a string over the English Alphabet
+
+Empty String:
+    * Denoted by symbol ε
+    * ε is a constant
+    * Length is always zero
+    * ε is a string over any and all Σ
+    * ε is not a symbol in any alphabet, it is a string
+
+Language over Σ:
+    * A set of finite Strings over Σ
+    * Can use any set theory operations
+    * L compliment is equal to Σ* - L
+    * Σ* compliment is ε (EMPTY SET)
+
+Σ*:
+    * Defined recursively
+    * String length is finite
+    * unique since its moving further away from the base step!
+    * Computes a set
+    * Σ* set is infinitely large since finite input Strings are unbounded

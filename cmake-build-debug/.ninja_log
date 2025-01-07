@@ -1,0 +1,15 @@
+# ninja log v6
+43	75	1736278153389313429	bin/length_of_string	727af02c8f8c7ebe
+180	298	1736278132057964752	bin/concatenation_of_strings	c6ae8ef3a4391962
+1	180	1736278131879336521	CMakeFiles/concatenation_of_strings.dir/1.1/concatenation_of_strings.c.o	d72823697c8c0f18
+7	201	1736277888288040562	CMakeFiles/Theory_of_Computing.dir/1.1/length_of_string.c.o	cc2a5c691f205dc5
+1	53	1736278751172333377	build.ninja	98ba055c714733b2
+1	87	1736277744152933733	CMakeFiles/Theory_of_Computing.dir/1.1/concatenation_of_strings.c.o	c41b5864e143e7f7
+1	42	1736278153347462848	CMakeFiles/length_of_string.dir/1.1/length_of_string.c.o	d17c794b2074c80f
+3	181	1736278644691244079	CMakeFiles/reverse_string.dir/1.1/finite_automata.c.o	9345d3cde0280d2f
+149	247	1736278315609338395	bin/reverse_string	8e5b10dab5a6cfd7
+1	148	1736278315461975038	CMakeFiles/reverse_string.dir/1.1/reverse_string.c.o	176c22304f8109e4
+2	168	1736278685302437511	CMakeFiles/finite_automata.dir/1.1/reverse_string.c.o	3182e49fcf0f9ffd
+2	168	1736278685301979933	CMakeFiles/finite_automata.dir/1.1/finite_automata.c.o	f3e86fe96ab3441
+1	105	1736278757770988971	bin/finite_automata	d28700478e6d6b73
+1	175	1736278805731265335	bin/reverse_string	8e5b10dab5a6cfd7
